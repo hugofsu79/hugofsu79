@@ -1,7 +1,5 @@
 # Hey, I'm Hugo  🙋🏻‍♂️
-
-
-
+<img src="https://github.com/hugofsu79/hugofsu79/blob/main/src/pastille/Impression_MySQLPastille.png" height=16> <img src="https://github.com/hugofsu79/hugofsu79/blob/main/src/pastille/Impression_htmlPastille.png" height=16> <img src="https://github.com/hugofsu79/hugofsu79/blob/main/src/pastille/Impression_laravelPastille.png" height=16> <img src="https://github.com/hugofsu79/hugofsu79/blob/main/src/pastille/Impression_phpPastille.png" height=16> <img src="https://github.com/hugofsu79/hugofsu79/blob/main/src/pastille/Impression_typeScriptPastille.png" height=16>
   
 
 > **-En**
